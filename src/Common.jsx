@@ -6,7 +6,7 @@ const Common = ({ img, btnname, visit }) => {
     <>
       <section
         id="header"
-        className="d-flex justify-content-center align-items-center pt-5 "
+        className="d-flex justify-content-center align-items-center pt-5 vh-100"
       >
         <div className="container-fluid nav_bg">
           <div className="row justify-content-center align-items-center text-center ">

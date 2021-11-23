@@ -31,7 +31,7 @@ const Contact = () => {
       <div className="my-5 text-center">
         <h1>Contact Us</h1>
       </div>
-      <div className="container">
+      <div className="container vh-100">
         <div className="row">
           <div className="col-md-6 col-10 mx-auto">
             <form onSubmit={onSubmit}>
